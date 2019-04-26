@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-// import PictureCard from "./components/picturecard";
-// import Wrapper from "./components/Wrapper";
+import PictureCard from "./components/picturecard";
+import Wrapper from "./components/wrapper";
 import cards from "./cards.json";
 
-class App extends React.Component {
+class App extends Component {
   state = {
     cards,
     clickedArray: [],
@@ -49,11 +49,11 @@ class App extends React.Component {
               <p className="score"><strong>score:{this.state.score} | TopScore:{this.state.topScore}</strong></p>
               <p className="message"><strong>{this.state.messgae}</strong></p>
           </h3>
-            <wrapper
+            <Wrapper
                 shakeWrapper = {this.state.shakeit}
                 pictures =
                 {this.state.cards.map(picture => (
-                    <pictureCard
+                    <PictureCard
                        clickPicture={this.clickPicture}
                        id={picture.id}
                     key={picture.id}

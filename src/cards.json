@@ -2,63 +2,63 @@
     {
       "id": 1,
       "name": "SpongeBob",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DtifO%2BqmL._SY355_.jpg",
       "occupation": "Fry Cook",
       "location": "A Pineapple Under the Sea"
     },
     {
       "id": 2,
       "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "image": "https://images.uncyc.org/commons/thumb/7/7b/Mr.%2BKrabs.gif.png/300px-Mr.%2BKrabs.gif.png",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
     {
       "id": 3,
       "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/220px-Squidward_Tentacles.svg.png",
       "occupation": "Cashier",
       "location": "An Easter Island Head"
     },
     {
       "id": 4,
       "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "image": "https://static.comicvine.com/uploads/scale_small/2/26503/878359-dexter3.jpg",
       "occupation": "Boy Genius",
       "location": "A Secret Laboratory"
     },
     {
       "id": 5,
       "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "image": "https://data.whicdn.com/images/238259962/large.jpg",
       "occupation": "A Cowardly Dog",
       "location": "Nowhere, Kansas"
     },
     {
       "id": 6,
       "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "image": "https://streetsignsto.files.wordpress.com/2012/05/tumblr_kymykliz9p1qanok5.jpg",
       "occupation": "Student",
       "location": "Bluffington"
     },
     {
       "id": 7,
       "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/042/315/funny-pictures-oh-hai-bug.jpg",
       "occupation": "Looney Toon",
       "location": "A Rabbit Burrow"
     },
     {
       "id": 8,
       "name": "Johnny Bravo",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "image": "https://www.turner.com/s3fs-public/image_u/img_johnny-bravo-flexing-2_2.jpg",
       "occupation": "Ladies Man",
       "location": "Aron City"
     },
     {
       "id": 9,
       "name": "Tommy Pickles",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-Rugrats-Elizabeth-Daily-Tommy-Pickles.jpg",
       "occupation": "Adventurer",
       "location": "California"
     },
