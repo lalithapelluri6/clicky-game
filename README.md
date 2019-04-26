@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### this is a clicky-game built on react js on front-end. 
+Mongodb,express js node js on backend.
+
+### All about this game:
+  click on any of the images to update the score. if you click the image more than once 
+  it will end the game.
+  
